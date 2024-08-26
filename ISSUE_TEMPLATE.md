@@ -1,9 +1,10 @@
-<!--- Provide a general summary of the issue in the Title above -->
+<!--- Provide a general summary of the issue in the Title above 
+ add your comments -->
 
 🐞 **Problem**
 <!--- Provide a detailed description of the change or addition you are proposing -->
 <!--- If it is a feature or a bug, what problem is it solving-->
-
+<!--- describe the problem here-->
 🎯 **Goal**
 <!--- Why is this change important to you? How would you use it? -->
 <!--- How can it benefit other users? -->
